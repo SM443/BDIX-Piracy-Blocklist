@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Last Update - Tue Feb  9 02:06:28 +06 2021
 # --------------------------------------------
-# Total Prefixes: 788
+# Total Prefixes: 813
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -49,6 +49,7 @@
 0.0.0.0 bdiptv.com
 0.0.0.0 bdiptv.net
 0.0.0.0 bdiptv.stream
+0.0.0.0 bdix.com.bd
 0.0.0.0 bdix.hitechisp.com
 0.0.0.0 bdix.itcnbd.com
 0.0.0.0 bdix.mtbsl.com
@@ -204,6 +205,7 @@
 0.0.0.0 fs.evillagectg.com
 0.0.0.0 fs.evonetbd.com
 0.0.0.0 fs.ihub.live
+0.0.0.0 fs.moviemela.live
 0.0.0.0 fs.rangdhanu.live
 0.0.0.0 fs.satrong.live
 0.0.0.0 fs1.dflix.live
@@ -217,9 +219,14 @@
 0.0.0.0 ftp.ftpbd.net
 0.0.0.0 ftp.mcnbd.com
 0.0.0.0 ftp.timepassbd.live
+0.0.0.0 ftp1.bdix.com.bd
+0.0.0.0 ftp2.bdix.com.bd
 0.0.0.0 ftp2.circleftp.net
+0.0.0.0 ftp3.bdix.com.bd
 0.0.0.0 ftp3.circleftp.net
+0.0.0.0 ftp4.bdix.com.bd
 0.0.0.0 ftp4.circleftp.net
+0.0.0.0 ftp5.bdix.com.bd
 0.0.0.0 ftpbd.com
 0.0.0.0 ftpbd.net
 0.0.0.0 ftpweb.mazedanetworks.net
@@ -228,6 +235,7 @@
 0.0.0.0 funtimebd.com
 0.0.0.0 future.net
 0.0.0.0 futurenet-bd.com
+0.0.0.0 fz.moviemela.live
 0.0.0.0 g9qloe.fou46b
 0.0.0.0 game.zxonlinebd.com
 0.0.0.0 gamingwithplaban.weebly.com
@@ -317,6 +325,7 @@
 0.0.0.0 mathanosto.top
 0.0.0.0 maxnetbd.com
 0.0.0.0 mcplexbangla.com
+0.0.0.0 media.bdix.com.bd
 0.0.0.0 media.ctgfun.com
 0.0.0.0 media.dfnbd.net
 0.0.0.0 media.fn
@@ -346,6 +355,7 @@
 0.0.0.0 moneybag.me
 0.0.0.0 moon2tv.webs.com
 0.0.0.0 movie.basnetbd.com
+0.0.0.0 movie.bdix.com.bd
 0.0.0.0 movie.idsbangladesh.net.bd
 0.0.0.0 movie.smartnetltd.com
 0.0.0.0 movie.vidmate.mobi
@@ -358,7 +368,9 @@
 0.0.0.0 moviemela.live
 0.0.0.0 movienoe.com
 0.0.0.0 movies.aitlbd.org
+0.0.0.0 movies.discoveryftp.net
 0.0.0.0 movies.fnfonlinebd.com
+0.0.0.0 movies.kloud.com.bd
 0.0.0.0 moviesco.cc
 0.0.0.0 moviescounterhd.club
 0.0.0.0 movieserver.net
@@ -565,7 +577,9 @@
 0.0.0.0 www.Rarbg.to
 0.0.0.0 www.Torrentz2.eu
 0.0.0.0 www.YTS.ag
+0.0.0.0 www.a1cyberlinkbd.com
 0.0.0.0 www.abnctg.net
+0.0.0.0 www.adharalo.com
 0.0.0.0 www.agcommunication.net
 0.0.0.0 www.alibabanetwork.net
 0.0.0.0 www.alphabroadway.com
@@ -576,10 +590,12 @@
 0.0.0.0 www.applenetbd.com
 0.0.0.0 www.arafnetbd.com
 0.0.0.0 www.area51bd.com
+0.0.0.0 www.as-bd.net
 0.0.0.0 www.asblink.net
 0.0.0.0 www.asianftp.com
 0.0.0.0 www.avabdnet.com
 0.0.0.0 www.azibtorrent.com
+0.0.0.0 www.bd7hub.net
 0.0.0.0 www.bdbroadband.com
 0.0.0.0 www.bdfun.club
 0.0.0.0 www.bdhdmovies.com
@@ -598,6 +614,7 @@
 0.0.0.0 www.bdspeed.com
 0.0.0.0 www.beaconlink.net
 0.0.0.0 www.beeflix.biz
+0.0.0.0 www.bhuiyan-online.com
 0.0.0.0 www.biggapan.tv
 0.0.0.0 www.bitnetbd.com
 0.0.0.0 www.bmnetworkbd.tk
@@ -607,6 +624,8 @@
 0.0.0.0 www.bossbd.net
 0.0.0.0 www.brothersitbd.com
 0.0.0.0 www.btekinternet.com
+0.0.0.0 www.businesszone.com.bd
+0.0.0.0 www.c1movies.com
 0.0.0.0 www.candybd.net
 0.0.0.0 www.channel
 0.0.0.0 www.chillbd.net
@@ -640,6 +659,7 @@
 0.0.0.0 www.ebox.live
 0.0.0.0 www.ectlink.com
 0.0.0.0 www.elaach.com
+0.0.0.0 www.enjoy.net.bd
 0.0.0.0 www.eolbd.com
 0.0.0.0 www.evillagectg.com
 0.0.0.0 www.evonetbd.com
@@ -666,6 +686,7 @@
 0.0.0.0 www.genvideos.org
 0.0.0.0 www.gnetinternet.com
 0.0.0.0 www.gnetworkbd.com
+0.0.0.0 www.hkonline.com.bd
 0.0.0.0 www.httpbd.com
 0.0.0.0 www.iflix.com
 0.0.0.0 www.ihub.live
@@ -674,6 +695,7 @@
 0.0.0.0 www.jagobd.com
 0.0.0.0 www.jalshaghor.com
 0.0.0.0 www.jananibd.com
+0.0.0.0 www.jannatmirinternetservice.com
 0.0.0.0 www.jhalmuri.com
 0.0.0.0 www.join4films.com
 0.0.0.0 www.kaat.pw
@@ -721,6 +743,7 @@
 0.0.0.0 www.oitbd.net
 0.0.0.0 www.onlinecricketvideo.com
 0.0.0.0 www.onnosomoy.com
+0.0.0.0 www.onnosomoy.com
 0.0.0.0 www.ontohinbd.com
 0.0.0.0 www.opnsports.com.pk
 0.0.0.0 www.origin.com
@@ -732,6 +755,7 @@
 0.0.0.0 www.quickonlineftp.com
 0.0.0.0 www.rabbitholebd.com
 0.0.0.0 www.radiantbd.net
+0.0.0.0 www.rainbownetworkbd.com
 0.0.0.0 www.rangdhanu.live
 0.0.0.0 www.rdconlinebd.net
 0.0.0.0 www.rejetto.com
@@ -776,6 +800,7 @@
 0.0.0.0 www.worldbd.net
 0.0.0.0 www.xplorenetbd.com
 0.0.0.0 www.yellownetbd.com
+0.0.0.0 www.yournetcommunications.net
 0.0.0.0 www.zeroftp.cf
 0.0.0.0 www.zerooneonline.net
 0.0.0.0 www.zipcyber.com

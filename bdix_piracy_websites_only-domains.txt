@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Last Update - Tue Feb  9 02:06:28 +06 2021
 # --------------------------------------------
-# Total Prefixes: 788
+# Total Prefixes: 813
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -49,6 +49,7 @@ bdfun.club
 bdiptv.com
 bdiptv.net
 bdiptv.stream
+bdix.com.bd
 bdix.hitechisp.com
 bdix.itcnbd.com
 bdix.mtbsl.com
@@ -204,6 +205,7 @@ fs.ebox.live
 fs.evillagectg.com
 fs.evonetbd.com
 fs.ihub.live
+fs.moviemela.live
 fs.rangdhanu.live
 fs.satrong.live
 fs1.dflix.live
@@ -217,9 +219,14 @@ ftp.com.bd
 ftp.ftpbd.net
 ftp.mcnbd.com
 ftp.timepassbd.live
+ftp1.bdix.com.bd
+ftp2.bdix.com.bd
 ftp2.circleftp.net
+ftp3.bdix.com.bd
 ftp3.circleftp.net
+ftp4.bdix.com.bd
 ftp4.circleftp.net
+ftp5.bdix.com.bd
 ftpbd.com
 ftpbd.net
 ftpweb.mazedanetworks.net
@@ -228,6 +235,7 @@ funtime.com.bd
 funtimebd.com
 future.net
 futurenet-bd.com
+fz.moviemela.live
 g9qloe.fou46b
 game.zxonlinebd.com
 gamingwithplaban.weebly.com
@@ -317,6 +325,7 @@ mars.bolbd.net
 mathanosto.top
 maxnetbd.com
 mcplexbangla.com
+media.bdix.com.bd
 media.ctgfun.com
 media.dfnbd.net
 media.fn
@@ -346,6 +355,7 @@ mojaloss.net
 moneybag.me
 moon2tv.webs.com
 movie.basnetbd.com
+movie.bdix.com.bd
 movie.idsbangladesh.net.bd
 movie.smartnetltd.com
 movie.vidmate.mobi
@@ -358,7 +368,9 @@ moviehaat.net
 moviemela.live
 movienoe.com
 movies.aitlbd.org
+movies.discoveryftp.net
 movies.fnfonlinebd.com
+movies.kloud.com.bd
 moviesco.cc
 moviescounterhd.club
 movieserver.net
@@ -565,7 +577,9 @@ www.Bossbd.net
 www.Rarbg.to
 www.Torrentz2.eu
 www.YTS.ag
+www.a1cyberlinkbd.com
 www.abnctg.net
+www.adharalo.com
 www.agcommunication.net
 www.alibabanetwork.net
 www.alphabroadway.com
@@ -576,10 +590,12 @@ www.anytv.live
 www.applenetbd.com
 www.arafnetbd.com
 www.area51bd.com
+www.as-bd.net
 www.asblink.net
 www.asianftp.com
 www.avabdnet.com
 www.azibtorrent.com
+www.bd7hub.net
 www.bdbroadband.com
 www.bdfun.club
 www.bdhdmovies.com
@@ -598,6 +614,7 @@ www.bdplex.net
 www.bdspeed.com
 www.beaconlink.net
 www.beeflix.biz
+www.bhuiyan-online.com
 www.biggapan.tv
 www.bitnetbd.com
 www.bmnetworkbd.tk
@@ -607,6 +624,8 @@ www.bolmovies.com
 www.bossbd.net
 www.brothersitbd.com
 www.btekinternet.com
+www.businesszone.com.bd
+www.c1movies.com
 www.candybd.net
 www.channel
 www.chillbd.net
@@ -640,6 +659,7 @@ www.e24.com.bd
 www.ebox.live
 www.ectlink.com
 www.elaach.com
+www.enjoy.net.bd
 www.eolbd.com
 www.evillagectg.com
 www.evonetbd.com
@@ -666,6 +686,7 @@ www.gamewala.net
 www.genvideos.org
 www.gnetinternet.com
 www.gnetworkbd.com
+www.hkonline.com.bd
 www.httpbd.com
 www.iflix.com
 www.ihub.live
@@ -674,6 +695,7 @@ www.itcnbd.com
 www.jagobd.com
 www.jalshaghor.com
 www.jananibd.com
+www.jannatmirinternetservice.com
 www.jhalmuri.com
 www.join4films.com
 www.kaat.pw
@@ -721,6 +743,7 @@ www.oceanofgames.com
 www.oitbd.net
 www.onlinecricketvideo.com
 www.onnosomoy.com
+www.onnosomoy.com
 www.ontohinbd.com
 www.opnsports.com.pk
 www.origin.com
@@ -732,6 +755,7 @@ www.powernetbd.com
 www.quickonlineftp.com
 www.rabbitholebd.com
 www.radiantbd.net
+www.rainbownetworkbd.com
 www.rangdhanu.live
 www.rdconlinebd.net
 www.rejetto.com
@@ -776,6 +800,7 @@ www.winneritbd.com
 www.worldbd.net
 www.xplorenetbd.com
 www.yellownetbd.com
+www.yournetcommunications.net
 www.zeroftp.cf
 www.zerooneonline.net
 www.zipcyber.com
