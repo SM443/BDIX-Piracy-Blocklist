@@ -1,9 +1,9 @@
 # --------------------------------------------
 # This list is to prevent piracy.
 # --------------------------------------------
-# Last Update - Tue Feb  9 02:06:28 +06 2021
+# Last Update - Tue Feb 16 22:05:35 +06 2021
 # --------------------------------------------
-# Total Domains: 813
+# Total Domains: 812
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -494,7 +494,6 @@
 0.0.0.0 srnetworks.webs.com
 0.0.0.0 ssonlinebd.com
 0.0.0.0 starflixbd.com
-0.0.0.0 store.steampowered.com
 0.0.0.0 sunftp.com
 0.0.0.0 sunlit.tv
 0.0.0.0 sunonlinebd.com
