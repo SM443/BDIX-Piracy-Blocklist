@@ -745,7 +745,6 @@
 0.0.0.0 www.onnosomoy.com
 0.0.0.0 www.ontohinbd.com
 0.0.0.0 www.opnsports.com.pk
-0.0.0.0 www.origin.com
 0.0.0.0 www.paitara.com
 0.0.0.0 www.pandaclubbd.com
 0.0.0.0 www.plus.net.bd
